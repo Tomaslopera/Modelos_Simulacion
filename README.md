@@ -25,3 +25,7 @@ Este repositorio contiene material desarrollado en **Python** con **Jupyter Note
 2. **Instalar las dependencias:**
    ```bash
    pip install numpy pandas scipy seaborn matplotlib jupyter
+
+## Notas
+
+- **Profesor** → Jaime Sánchez
