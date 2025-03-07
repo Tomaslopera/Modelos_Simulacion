@@ -15,7 +15,7 @@ Este repositorio contiene material desarrollado en **Python** con **Jupyter Note
 - **Evaluaciones** → Exámenes y pruebas con sus respectivas soluciones.  
 - **Distribuciones** → Análisis y simulaciones de distribuciones de probabilidad.  
 
-## Cómo usar este repositorio
+## ¿Cómo usar este repositorio?
 
 1. **Clonar el repositorio:**  
    ```bash
