@@ -19,7 +19,7 @@ Este repositorio contiene material desarrollado en **Python** con **Jupyter Note
 
 1. **Clonar el repositorio:**  
    ```bash
-   git clone https://github.com/tu-usuario/modelos-y-simulacion.git
+   git clone 'direccion'
    cd modelos-y-simulacion
 
 2. **Instalar las dependencias:**
